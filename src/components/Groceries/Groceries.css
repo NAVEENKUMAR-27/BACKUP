@@ -1,0 +1,22 @@
+.cart_butt_groc{
+    background-color: transparent;
+    border-radius: 25px;
+}
+.span_offer{
+    font-size: 12px;
+    text-decoration: line-through;
+}
+.heart_but{
+     position:relative;
+     left:150px;
+     top:10px;
+     font-size: 25px;
+     
+}
+.card{
+    border-radius: 25px !important;
+}
+.card:hover{
+    transform: scale(0.9);
+    box-shadow: 2px 2px 2px 8px ghostwhite;
+}

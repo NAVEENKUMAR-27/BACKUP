@@ -1,0 +1,18 @@
+.bor_log{
+    border: 2px solid gray;
+    border-radius: 50px;
+}
+.bor_inp{
+    outline: none;
+    border:none;
+}
+.bor_inp:hover{
+    outline: none;
+    border: none;
+    border-bottom:2px solid gray;
+}
+
+.span_text{
+    font-weight: bolder;
+
+}
