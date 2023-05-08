@@ -1,0 +1,18 @@
+.icon{
+    font-size: 40px;
+}
+.hov{
+ animation:  hover 14.2s reverse infinite;
+} 
+
+@keyframes hover{
+    50%{
+        transform: rotate(45deg);
+        color:red
+    }
+
+    75%{
+        transform: rotate(-45deg);
+    }
+}
+
